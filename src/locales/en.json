@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "calendar": "Calendar",
+    "registration": "Applications",
+    "courses": "Courses",
+    "account": "My Account"
+  },
+  "calendar": {
+    "title": "Course Calendar",
+    "tabs": {
+      "upcoming": "Upcoming Courses",
+      "past": "Past Courses"
+    },
+    "filters": {
+      "title": "Filters",
+      "search": "Search course",
+      "date": "Date",
+      "deliveryMethod": "Delivery Method",
+      "locations": "Location",
+      "themes": "Themes"
+    },
+    "deliveryMethods": {
+      "online": "Online",
+      "hybrid": "Hybrid",
+      "offline": "In-person"
+    },
+    "themes": {
+      "english": "English",
+      "cybersecurity": "Cybersecurity",
+      "programming": "Programming",
+      "dataScience": "Data Science",
+      "cloudComputing": "Cloud Computing",
+      "projectManagement": "Project Management",
+      "digitalMarketing": "Digital Marketing",
+      "uiuxDesign": "UI/UX Design",
+      "businessAnalysis": "Business Analysis",
+      "artificialIntelligence": "Artificial Intelligence",
+      "devops": "DevOps",
+      "qualityAssurance": "Quality Assurance",
+      "blockchain": "Blockchain",
+      "mobileDevelopment": "Mobile Development",
+      "webDevelopment": "Web Development"
+    },
+    "noCourses": "No courses to display",
+    "availability": "{available} seats available out of {total}",
+    "reward": "Reward {amount}",
+    "register": "Register",
+    "pastCourse": "Course completed",
+    "soldOut": "Sold out",
+    "instructors": "Instructors",
+    "intensity": {
+      "semester": "Course intensity: Semester",
+      "intensive": "Course intensity: Intensive",
+      "weekend": "Course intensity: Weekend"
+    },
+    "teachingHours": "Teaching hours: {hours}"
+  },
+  "account": {
+    "title": "My Account",
+    "comingSoon": "Coming Soon",
+    "sectionInDevelopment": "This section is under development",
+    "tabs": {
+      "basicInfo": "Basic Information",
+      "password": "Change Password",
+      "volunteer": "Volunteer Profile",
+      "contracts": "Cooperation Agreements",
+      "questionnaire": "Questionnaire",
+      "lecturer": "Lecturer Profile",
+      "coach": "Coach Profile",
+      "workshop": "Workshop Profile",
+      "photographer": "Photographer Profile"
+    },
+    "basicInfo": {
+      "title": "Basic Information",
+      "username": "Username",
+      "usernamePlaceholder": "Enter username",
+      "firstName": "First Name",
+      "firstNamePlaceholder": "Enter first name",
+      "lastName": "Last Name",
+      "lastNamePlaceholder": "Enter last name",
+      "email": "Email",
+      "emailPlaceholder": "Enter email",
+      "save": "Save Changes"
+    },
+    "password": {
+      "title": "Change Password",
+      "current": "Current Password",
+      "new": "New Password",
+      "confirm": "Confirm New Password",
+      "change": "Change Password"
+    },
+    "volunteer": {
+      "title": "Volunteer Profile",
+      "phone": "Phone Number",
+      "phonePlaceholder": "Enter phone number",
+      "preferredTheme": "Preferred Theme",
+      "selectTheme": "Select theme",
+      "bio": "About Me",
+      "bioPlaceholder": "Write something about yourself...",
+      "availability": "Availability",
+      "weekdays": "Weekdays",
+      "weekends": "Weekends",
+      "evenings": "Evenings",
+      "save": "Save Profile"
+    },
+    "deactivate": {
+      "button": "Deactivate Account",
+      "confirmation": "Are you sure you want to deactivate your account?",
+      "confirm": "Yes, deactivate",
+      "cancel": "No, cancel"
+    }
+  }
+}

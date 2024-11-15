@@ -1,0 +1,113 @@
+{
+  "nav": {
+    "calendar": "Kalendář",
+    "registration": "Přihlášky",
+    "courses": "Kurzy",
+    "account": "Můj účet"
+  },
+  "calendar": {
+    "title": "Kalendář kurzů",
+    "tabs": {
+      "upcoming": "Nadcházející kurzy",
+      "past": "Proběhlé kurzy"
+    },
+    "filters": {
+      "title": "Filtry",
+      "search": "Vyhledat kurz",
+      "date": "Datum konání",
+      "deliveryMethod": "Způsob výuky",
+      "locations": "Místo konání",
+      "themes": "Témata"
+    },
+    "deliveryMethods": {
+      "online": "Online",
+      "hybrid": "Hybridní",
+      "offline": "Prezenční"
+    },
+    "themes": {
+      "english": "Angličtina",
+      "cybersecurity": "Kybernetická bezpečnost",
+      "programming": "Programování",
+      "dataScience": "Data Science",
+      "cloudComputing": "Cloud Computing",
+      "projectManagement": "Projektové řízení",
+      "digitalMarketing": "Digitální marketing",
+      "uiuxDesign": "UI/UX Design",
+      "businessAnalysis": "Byznys analýza",
+      "artificialIntelligence": "Umělá inteligence",
+      "devops": "DevOps",
+      "qualityAssurance": "Testování",
+      "blockchain": "Blockchain",
+      "mobileDevelopment": "Mobilní vývoj",
+      "webDevelopment": "Webový vývoj"
+    },
+    "noCourses": "Žádné kurzy k zobrazení",
+    "availability": "{available} volných míst z {total}",
+    "reward": "Odměna {amount}",
+    "register": "Přihlásit",
+    "pastCourse": "Kurz proběhl",
+    "soldOut": "Obsazeno",
+    "instructors": "Lektoři",
+    "intensity": {
+      "semester": "Intenzita akce: Semestrální",
+      "intensive": "Intenzita akce: Intenzivní",
+      "weekend": "Intenzita akce: Víkendová"
+    },
+    "teachingHours": "Počet hodin přímé výuky: {hours}"
+  },
+  "account": {
+    "title": "Můj účet",
+    "comingSoon": "Připravujeme",
+    "sectionInDevelopment": "Tato sekce je ve vývoji",
+    "tabs": {
+      "basicInfo": "Základní údaje",
+      "password": "Změna hesla",
+      "volunteer": "Profil dobrovolníka",
+      "contracts": "Smlouvy o spolupráci",
+      "questionnaire": "Dotazník",
+      "lecturer": "Profil lektora",
+      "coach": "Profil kouče",
+      "workshop": "Profil workshopisty",
+      "photographer": "Profil fotografa"
+    },
+    "basicInfo": {
+      "title": "Základní údaje",
+      "username": "Uživatelské jméno",
+      "usernamePlaceholder": "Zadejte uživatelské jméno",
+      "firstName": "Jméno",
+      "firstNamePlaceholder": "Zadejte jméno",
+      "lastName": "Příjmení",
+      "lastNamePlaceholder": "Zadejte příjmení",
+      "email": "E-mail",
+      "emailPlaceholder": "Zadejte e-mail",
+      "save": "Uložit změny"
+    },
+    "password": {
+      "title": "Změna hesla",
+      "current": "Současné heslo",
+      "new": "Nové heslo",
+      "confirm": "Potvrzení nového hesla",
+      "change": "Změnit heslo"
+    },
+    "volunteer": {
+      "title": "Profil dobrovolníka",
+      "phone": "Telefonní číslo",
+      "phonePlaceholder": "Zadejte telefonní číslo",
+      "preferredTheme": "Preferované téma",
+      "selectTheme": "Vyberte téma",
+      "bio": "O mně",
+      "bioPlaceholder": "Napište něco o sobě...",
+      "availability": "Dostupnost",
+      "weekdays": "Všední dny",
+      "weekends": "Víkendy",
+      "evenings": "Večery",
+      "save": "Uložit profil"
+    },
+    "deactivate": {
+      "button": "Deaktivovat účet",
+      "confirmation": "Opravdu chcete deaktivovat svůj účet?",
+      "confirm": "Ano, deaktivovat",
+      "cancel": "Ne, zrušit"
+    }
+  }
+}

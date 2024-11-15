@@ -1,0 +1,76 @@
+// Variables
+$primary: #0066cc;
+$secondary: #6c757d;
+$danger: #dc3545;
+$body-bg: #f8f9fa;
+$enable-shadows: true;
+$enable-gradients: false;
+
+// Import Google Font
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+// Import Bootstrap
+@import "bootstrap/scss/bootstrap";
+
+// Custom styles
+:root {
+  --czechitas-blue: #{$primary};
+  --czechitas-red: #{$danger};
+  --czechitas-pink: #ff4d6d;
+  --czechitas-pink-dark: #ff3d61;
+  --czechitas-title-blue: #1a5f7a;
+  --czechitas-filter-blue: #2c7da0;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background-color: var(--bs-body-bg);
+}
+
+.calendar-view {
+  h1 {
+    color: var(--czechitas-title-blue);
+    font-weight: 700;
+    letter-spacing: -0.5px;
+  }
+}
+
+.filter-panel {
+  .card-title {
+    color: var(--czechitas-filter-blue);
+    font-weight: 600;
+    letter-spacing: -0.3px;
+  }
+
+  .form-label {
+    color: var(--czechitas-filter-blue);
+    font-weight: 500;
+  }
+}
+
+.course-card {
+  .card-title {
+    color: var(--czechitas-pink);
+    font-weight: 600;
+    letter-spacing: -0.3px;
+  }
+}
+
+.sidebar {
+  min-height: 100vh;
+  background-color: #fff;
+  border-right: 1px solid var(--bs-border-color);
+}
+
+.main-content {
+  padding: 2rem;
+}
+
+// Utility classes
+.text-czechitas {
+  color: var(--czechitas-blue);
+}
+
+.bg-czechitas {
+  background-color: var(--czechitas-blue);
+}
